@@ -11,7 +11,7 @@ const Footer = () => {
           Made whit love by{" "}
           <a
             className="hda__footer-a"
-            href="https://github.com/AndresPineros29/code-online"
+            href="https://github.com/AndresPineros29/historia-d-amore"
             target="_blank"
           >
             AndresPineros29 <FaGithub />

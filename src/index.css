@@ -1,0 +1,19 @@
+@font-face {
+  font-family: PrimaryFont;
+  src: url("./assets/fonts/Lightly Sailler dafont.otf");
+}
+@font-face {
+  font-family: SecondFont;
+  src: url("./assets/fonts/Sabon.ttf");
+}
+
+:root {
+  --primary-font: "PrimaryFont", sans-serif;
+  --secondary-font: "SecondFont", sans-serif;
+
+  --color-bg: #010102;
+  --color-text: #e8e8e8;
+  --color-subtext: #dcca87;
+}
+
+/* #010102 */
